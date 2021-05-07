@@ -34,9 +34,9 @@ app.post("/", function (req, res) {
     const url = "https://DC.api.mailchimp.com/3.0/lists/<MY_LIST_ID>/";
     const options = {
         method: "POST",
-        auth: "pranshukas:<MY_API_KEY>"
+        auth: "<Any_string>:<MY_API_KEY>"
     }
-
+//Replace <Any_String> with any string of your choice (your name/username example: auth: "pranshukas:us1-XXXXXXXXXXXXX"
 
     const request = https.request(url, options, function (response) {
 
