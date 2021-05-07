@@ -15,7 +15,7 @@ Simple Newsletter Website that collects Name and Email Address from the user and
 
 Deployed Website (on Heroku): https://technica-newsletter.herokuapp.com/
 
-![Newsletter-Signup](.public/images/Capture.png)
+![Newsletter-Signup](public/images/Capture.png)
 
 
 ## Built-With
