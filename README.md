@@ -31,8 +31,8 @@ Make Changes to API Keys, data Centre and Audience ID. Signup at Mailchimp. Copy
 
 ## Installation
 
-1. Run `npm init`
-2. Install Dependencies `npm install express body-parser request`
+1. Run `npm install`
+2. Dependencies are `express body-parser request`
 3. Now run on Local Host use `node app.js`
 
 ## Contribution
